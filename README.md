@@ -184,7 +184,7 @@ https://github.com/headshot2017/OpenLara
 * [Release trailer](https://www.youtube.com/watch?v=LWZam_kt46w)
 * Gameplay videos
 	* [*Tomb Raider 1*](https://www.youtube.com/watch?v=TUKH5vfng_k)
-	* [Backwards long-jumpinng in *Tomb Raider 1*](https://www.youtube.com/watch?v=BIyfljf-qP0)
+	* [Backwards long-jumping in *Tomb Raider 1*](https://www.youtube.com/watch?v=BIyfljf-qP0)
 	* [*Tomb Raider 2*](https://www.youtube.com/watch?v=-fM1_9LwO-Y)
 
 ### *Mario in DDNet* by [Headshotnoby](https://www.youtube.com/@Headshotnoby/featured)
